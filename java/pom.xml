@@ -48,9 +48,9 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
-    </dependencies>
+    <!-- </dependencies>
 
-    <dependencies>
+    <dependencies> -->
         <!-- Junit5 Dependency -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
