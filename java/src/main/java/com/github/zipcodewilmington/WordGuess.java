@@ -6,8 +6,8 @@ package com.github.zipcodewilmington;
  * @date 5/27/21 11:02 AM
  */
 
-import java.util.Scanner;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class WordGuess {
 
